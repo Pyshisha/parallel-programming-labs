@@ -6,7 +6,6 @@ x64/
 *.exe
 *.user
 *.suo
-*.sln
 *.vcxproj
 *.vcxproj.filters
 *.vcxproj.user
