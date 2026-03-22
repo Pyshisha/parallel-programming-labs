@@ -1,0 +1,30 @@
+# Visual Studio
+.vs/
+Debug/
+Release/
+x64/
+*.exe
+*.user
+*.suo
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+
+# Результаты экспериментов
+data_*/
+results.csv
+verification_report.txt
+
+# CMake
+build/
+CMakeCache.txt
+CMakeFiles/
+
+# Python
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
+Thumbs.db
