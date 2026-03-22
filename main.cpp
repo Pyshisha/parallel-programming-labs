@@ -65,7 +65,7 @@ int main() {
     int numSizes = 6;
 
     ofstream resultsFile("results.csv");
-    resultsFile << "Size,Time_seconds,Operations" << endl;
+    resultsFile << "Size,Time_seconds" << endl;
 
     cout << "========================================" << endl;
     cout << "Умножение матриц" << endl;

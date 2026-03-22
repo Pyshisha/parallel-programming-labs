@@ -11,11 +11,6 @@ x64/
 *.vcxproj.filters
 *.vcxproj.user
 
-# Результаты экспериментов
-data_*/
-results.csv
-verification_report.txt
-
 # CMake
 build/
 CMakeCache.txt
