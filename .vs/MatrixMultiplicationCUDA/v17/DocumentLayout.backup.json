@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ParallelProgramming\\MatrixMultiplicationCUDA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9048F6B2-BD9F-10C5-3386-0D085E6C5767}|MatrixMultiplicationCUDA.vcxproj|D:\\ParallelProgramming\\MatrixMultiplicationCUDA\\kernel.cu||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{9048F6B2-BD9F-10C5-3386-0D085E6C5767}|MatrixMultiplicationCUDA.vcxproj|solutionrelative:kernel.cu||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "kernel.cu",
+              "DocumentMoniker": "D:\\ParallelProgramming\\MatrixMultiplicationCUDA\\kernel.cu",
+              "RelativeDocumentMoniker": "kernel.cu",
+              "ToolTip": "D:\\ParallelProgramming\\MatrixMultiplicationCUDA\\kernel.cu",
+              "RelativeToolTip": "kernel.cu",
+              "ViewState": "AgIAAJkAAAAAAAAAAAAAALcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-04-16T15:36:07.828Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
