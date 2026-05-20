@@ -1,0 +1,16 @@
+MPI MATRIX MULTIPLICATION
+
+Total processes: 6
+Error: size 200 not divisible by 6
+Error: size 400 not divisible by 6
+Error: size 800 not divisible by 6
+
+Size 1200x1200
+Generating matrices...
+Multiplying... (processes: 6)
+  Time: 3.9714 sec
+
+
+ALL EXPERIMENTS COMPLETED
+Error: size 1600 not divisible by 6
+Error: size 2000 not divisible by 6

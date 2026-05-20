@@ -1,0 +1,36 @@
+MPI MATRIX MULTIPLICATION
+
+Total processes: 4
+
+Size 200x200
+Generating matrices...
+Multiplying... (processes: 4)
+  Time: 0.0213919 sec
+
+Size 400x400
+Generating matrices...
+Multiplying... (processes: 4)
+  Time: 0.174951 sec
+
+Size 800x800
+Generating matrices...
+Multiplying... (processes: 4)
+  Time: 1.62701 sec
+
+Size 1200x1200
+Generating matrices...
+Multiplying... (processes: 4)
+  Time: 5.69373 sec
+
+Size 1600x1600
+Generating matrices...
+Multiplying... (processes: 4)
+  Time: 15.1548 sec
+
+Size 2000x2000
+Generating matrices...
+Multiplying... (processes: 4)
+  Time: 29.0926 sec
+
+
+ALL EXPERIMENTS COMPLETED
